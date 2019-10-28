@@ -25,7 +25,7 @@ This descibes the basics of color theory and how it is used in art and film.
 ## Color Relationships
 ![Color wheel](link)
 ### Primary Colors
-Red, Yellow, and Blue make up the primary colors. These are colors that can not be mixed and tend to command the most attention (Think of road signs and logos.)
+Red, Yellow, and Blue make up the primary colors. These are colors that can not be mixed and tend to command the most attention (Think of most road signs and logos.)
 ### Secondary Colors
 These are colors that are comprised of two primary colors. They are orange, green, and purple. 
 ### Complimentary Colors
@@ -42,16 +42,13 @@ All colors can have a 'Warm' and 'Cool' version, depending on the shade (For exa
 
 ## Real aplications of color theory
 ### Mixing Colors
-Color relationships are extremely important when mixing colors when painting. It is vital to know that Complimentary colors, when mixed, produce a brown or grey (Called neutralizing). This also applys to shades. Blue and red make purple, but when a warm red (that is closer to orange) is mixed with a blue, it will produce a very grey purple tone. 
+Color relationships are extremely important when mixing colors when painting. It is vital to know that Complimentary colors, when mixed, produce a brown or grey (It is called neutralizing). This also applys to shades. Blue and red make purple, but when a warm red (that is closer to orange) is mixed with a blue, it will produce a very grey purple tone. 
 ### Mood 
-
+Mood is one of the most important uses of color in general. There is a reason why poisonus animals and stop signs are red, to indicate danger. Specifically, mood is used to set the tone of an art piece. 
 
 
 
 1. ordered list
-* unordered list
-  * sub list
-    * another list 
 
 > quote 
 
