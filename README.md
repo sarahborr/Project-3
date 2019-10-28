@@ -42,12 +42,12 @@ All colors can have a 'Warm' and 'Cool' version, depending on the shade (For exa
 
 ## Real aplications of color theory
 ### Mixing Colors
-Color relationships are *extremely* important when mixing colors when painting. It is vital to know that Complimentary colors, when mixed, produce a brown or grey (a neutral color). This also applys to shades. Blue and red make purple, but when a warm red (that is closer to orange) is mixed with a blue, it will produce a very grey purple tone. This is why it is important to know if a paint has multiple pigments as it may accidentally lead to neutralising a pigment 
-### Mood 
-Mood is one of the most important uses of color in general. There is a reason why poisonus animals and stop signs are red, to indicate danger. Specifically, mood is used to set the tone of an art piece. There is a reason that Van Gouh's 'Starry Night' seems so melencholic and beautiful, 
-![text](https://media.overstockart.com/optimized/cache/data/product_images/VG485-1000x1000.jpg)
-
-
+Color relationships are *extremely* important when mixing colors when painting. It is vital to know that Complimentary colors, when mixed, produce a brown or grey (a neutral color). This also applys to shades. Blue and red make purple, but when a warm red (that is closer to orange) is mixed with a blue, it will produce a very grey purple tone. This is why it is important to know if a paint has multiple pigments as it may accidentally lead to neutralising a color.  
+### Mood and Examples
+Mood is one of the most important uses of color in general. There is a reason why poisonus animals and stop signs are red, to indicate danger. Specifically, mood is used to set the tone of an art piece. There is a reason that Van Gouh's 'name' seems so livley and happy, while Edward Hopper's "Nighthawk', though depicting a similar scene of a restraunt at night, seems eerie and threatening:
+![Van Gough's](https://media-dev.overstockart.com/optimized/cache/data/product_images/VG415-1000x1000.jpg)
+![Nighthawk by Edward Hopper](https://media.overstockart.com/optimized/cache/data/product_images/EH2136-1000x1000.jpg)
+Though it is not the only contripbuting artistic principal that lead to these moods, it is certainly the most prominent. The first features bright yellows and blue, a calm blue with a hapy yellow. The second one uses darker Greens and reds (Complimentary colors)
 
 > quote 
 
