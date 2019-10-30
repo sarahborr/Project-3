@@ -27,7 +27,7 @@ This descibes the basics of color theory and how it is used in art and film.
 ### Primary Colors
 Red, Yellow, and Blue make up the primary colors. These are colors that can not be mixed and tend to command the most attention (Think of most road signs and logos.)
 ### Secondary Colors
-These are colors that are comprised of two primary colors. They are orange, green, and purple. 
+These are colors that are comprised of two primary colors. They are orange, green, and purple. They tend to be less eye-catching than primary colors. Thier assosiations also tend to be similar to those of their parent colors.
 ### Complimentary Colors
 Colors that are oposite to eachother on the color wheel. The complments are:
 1. Red and Green
@@ -47,9 +47,9 @@ Color relationships are *extremely* important when mixing colors when painting. 
 Mood is one of the most important uses of color in general. There is a reason why poisonus animals and stop signs are red, to indicate danger. Specifically, mood is used to set the tone of an art piece. There is a reason that Van Gouh's 'name' seems so livley and happy, while Edward Hopper's "Nighthawk', though depicting a similar scene of a restraunt at night, seems eerie and threatening:
 ![Van Gough's](https://media-dev.overstockart.com/optimized/cache/data/product_images/VG415-1000x1000.jpg)
 ![Nighthawk by Edward Hopper](https://media.overstockart.com/optimized/cache/data/product_images/EH2136-1000x1000.jpg)
-Though it is not the only contripbuting artistic principal that lead to these moods, it is certainly the most prominent. The first features bright yellows and blue, a calm blue with a hapy yellow. The second one uses darker Greens and reds (Complimentary colors)
+Though it is not the only contripbuting artistic principal that lead to these moods, it is certainly the most prominent. The first features bright primary colors, a calm blue with a happy yellow. The second one uses darker Greens and reds (complimentary colors) that oppose each other and aid in the feeling of disharmony that makes the painting feel 'off'.
 
 > quote 
 
 ## Further Development 
-If given more time, I would like to possibly go into tints, shades, and saturation and how they effect color and mood.  
+If given more time, I would like to possibly go into tints, shades, and saturation and how they effect color and mood. Tertiary colors and various other color relationships, like analogus (colors next to eachother) and triads (3 color equally spaced from eachother). Going into other color relationships and how colors may apper what they are not 
