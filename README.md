@@ -1,33 +1,15 @@
 # Color Theory 
->Why do two colors, put one next to the other, sing? Can one really explain this? no. Just as one can never learn how to paint. -Pablo Picaso
+>Why do two colors, put one next to the other, sing? Can one really explain this? no. Just as one can never learn how to paint. 
+
+Pablo Picaso
 
 This Markdown descibes the basics of color theory, relationships, and how it is used to portray mood in art and film.
-## Colors and Assosiations
-* Red
-  * Passion
-* Orange
-  * Danger
-* Yellow
-  * Happiness 
-* Green
-  * Nature
-* Blue/indigo
-  * Calmness
-  * Sadness  
-* Purple
-  * Magic
-  * Royalty
-* White 
-  * Light
-  * Goodness
-* Black
-  * Darkness
-  * Danger 
 
 ## Color Relationships
 ![Color wheel](https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2011/7/18/0/HGTV_Color-Wheel-Full_s4x3.jpg.rend.hgtvcom.616.462.suffix/1400967008479.jpeg)
 ### Primary Colors
 Red, Yellow, and Blue make up the primary colors. These are colors that can not be mixed and tend to command the most attention (Think of most road signs and logos.)
+
 ### Secondary Colors
 These are colors that are comprised of two primary colors. They are orange, green, and purple. 
 ### Complimentary Colors
@@ -42,6 +24,30 @@ The rainbow can be split into warm and cool colors. Red, orange, yellow, and pin
 
 All colors can have a 'Warm' and 'Cool' version, depending on the shade (For exaple, a more purpley-red is a cool red, and a orangey-red is a warm red)
 
+#### Warm colors and assosiations
+* Red
+  * Passion
+* Orange
+  * Danger
+* Yellow
+  * Happiness 
+#### Cool colors and assosiations
+* Green
+  * Nature
+* Blue/indigo
+  * Calmness
+  * Sadness  
+* Purple
+  * Magic
+  * Royalty
+ #### Other colors and assosiations 
+* White 
+  * Light
+  * Goodness
+* Black
+  * Darkness
+  * Danger 
+  
 ## Real aplications of color theory
 ### Mixing Colors
 Color relationships are *extremely* important when mixing colors when painting. It is vital to know that Complimentary colors, when mixed, produce a brown or grey (a neutral color). This also applys to shades. Blue and red make purple, but when a warm red (that is closer to orange) is mixed with a blue, it will produce a very grey purple tone. This is why it is important to know if a paint has multiple pigments as it may accidentally lead to neutralising a color.  
